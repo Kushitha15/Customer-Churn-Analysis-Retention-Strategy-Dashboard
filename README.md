@@ -31,4 +31,5 @@ Provide insights to improve retention strategies
 Enable decision-making using interactive visuals
 
 This dashboard provides a comprehensive view of customer churn and enables businesses to take proactive retention measures by identifying high-risk customers and key churn drivers.
-Dashboard Preview
+**Dashboard Preview**
+https://github.com/Kushitha15/Customer-Churn-Analysis-Retention-Strategy-Dashboard/blob/main/Snapshot%20of%20Dashboard.pdf
